@@ -1,4 +1,4 @@
-package com.fpt;
+package com.fpt.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
