@@ -18,7 +18,7 @@ public class JwtService {
 
 	public static final String USERNAME = "username";
 	public static final String ROLE = "role";
-	public static final String SECRET_KEY = "NGUYENVT2_MY_SECRET_KEY_FRESHER_ACADEMY_HCM_JAVA";
+	public static final String SECRET_KEY = "MY_SECRET_KEY_FRESHER_ACADEMY_HCM_JAVA";
 	public static final int EXPIRE_TIME = 86400000; // 24*60*60*1000 millisecond
 
 	public String generateTokenLogin(String username, String role) {
